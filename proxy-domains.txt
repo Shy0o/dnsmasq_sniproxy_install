@@ -22,6 +22,6 @@ makersuite.google.com
 aistudio.google.com
 bard.google.com
 gemini.google.com
-usefathom.com
+cdn.usefathom.com
 anthropic.com
 claude.ai
